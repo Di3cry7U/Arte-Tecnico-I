@@ -349,7 +349,7 @@
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "30e451c29fdd4670bd2543a0dba17e69"
+                    "m_Id": "af4f39c3332548afb81c15ababbf9899"
                 },
                 "m_SlotId": 0
             }
@@ -357,13 +357,13 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "a1df455f52164af18e7431fc6b407e24"
+                    "m_Id": "af4f39c3332548afb81c15ababbf9899"
                 },
                 "m_SlotId": 3
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "af4f39c3332548afb81c15ababbf9899"
+                    "m_Id": "30e451c29fdd4670bd2543a0dba17e69"
                 },
                 "m_SlotId": 0
             }
@@ -887,7 +887,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
-        "y": 0.5
+        "y": 0.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -1961,7 +1961,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Opacity",
     "m_StageCapability": 3,
-    "m_Value": 0.1599999964237213,
+    "m_Value": 0.17000000178813935,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -3156,7 +3156,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Scale",
     "m_StageCapability": 3,
-    "m_Value": 100.0,
+    "m_Value": 1.0,
     "m_DefaultValue": 10.0,
     "m_Labels": []
 }
@@ -3766,7 +3766,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Alpha",
     "m_StageCapability": 2,
-    "m_Value": -15.720000267028809,
+    "m_Value": -3.5,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
