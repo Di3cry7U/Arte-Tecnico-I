@@ -42,11 +42,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _EdgeCutOff: 3.01
-    - _Edge_Amount: 0.42
+    - _EdgeCutOff: 3.95
+    - _Edge_Amount: 0.34
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: -5.35
+    - _Speed: -5.05
     m_Colors:
     - _Color: {r: 1, g: 0.9167994, b: 0, a: 0}
   m_BuildTextureStacks: []
