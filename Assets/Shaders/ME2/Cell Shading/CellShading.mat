@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: LavaMat
-  m_Shader: {fileID: -6465566751694194690, guid: 6d48a3a9c31bcfe418875819ba06894f, type: 3}
+  m_Name: CellShading
+  m_Shader: {fileID: -6465566751694194690, guid: cc3b2be6055847841adc0ec73b58dc93, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,12 +24,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_255b2fa155704b0a876293b389787fbe_Texture_1_Texture2D:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_6da27e281e9a4bbaac380ad0fd99f74b_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: e7265775c093cfc40a529f14adfffbc7, type: 3}
+    - _SampleTexture2D_72c6a10cb07a4e619bab3d8345876c5f_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f9a9dec4f6736f947a5bd668b43a5ab9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -46,15 +42,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Intensidad: 0.125
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SpeedLava: 0.1
     m_Colors:
-    - _Color: {r: 1.5938054, g: 0.55115116, b: 0.20148103, a: 0}
+    - _DirectionLight: {r: 0, g: 0, b: 0, a: 0}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &9085042041426917785
+--- !u!114 &922360816297495616
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
