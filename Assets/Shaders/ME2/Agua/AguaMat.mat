@@ -68,11 +68,11 @@ Material:
     - _Edge2: 1.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction: 0.01
+    - _Refraction: 0.02
     - _Vertex: 10.08
     - _distance: 0.35
     m_Colors:
-    - _DeepColor: {r: 0, g: 0.21517184, b: 0.42452827, a: 0.20392157}
-    - _EdgeColor: {r: 0.47452098, g: 0.30130824, b: 0.57547164, a: 0.5764706}
+    - _DeepColor: {r: 0.30980393, g: 0.42745098, b: 0.47843137, a: 0.20392157}
+    - _EdgeColor: {r: 0.7830189, g: 0.40910435, b: 0.114498034, a: 0.5764706}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
