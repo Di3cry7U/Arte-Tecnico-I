@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AguaMaterial
+  m_Name: mat_chispas
   m_Shader: {fileID: -6465566751694194690, guid: ee7f5e4e5e736f84089f7a3f3f024ab4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -38,8 +38,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _scaleNoise: 5
-    - _strengh: 0
-    - _tama_o: 0.8
+    - _strengh: 0.53
+    - _tama_o: 0.9
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
